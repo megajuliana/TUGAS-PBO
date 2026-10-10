@@ -1,3 +1,5 @@
+package TugasP2;
+
 import java.util.Scanner;
 
 public class Latihan1 {
