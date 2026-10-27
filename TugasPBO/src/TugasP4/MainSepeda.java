@@ -15,7 +15,6 @@ public class MainSepeda {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
-        // Membuat objek dari class Sepeda
         Sepeda sepeda = new Sepeda();
         
         System.out.print("Masukan Object Merk Sepeda: ");
@@ -67,4 +66,8 @@ public class MainSepeda {
         input.close();
     }
 }
+
+
+
+
 
