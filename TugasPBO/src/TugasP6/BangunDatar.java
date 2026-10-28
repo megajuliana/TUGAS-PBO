@@ -8,9 +8,9 @@ package TugasP6;
  *
  * @author ThinkPad
  */
-public class BangunDatar {
+public class BangunDatar { 
     int luas;
-    int keliling;
+    int keliling; 
     
     public void hitungLuas() {
         System.out.println("\nMenghitung Luas Bangun Datar");

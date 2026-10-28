@@ -12,14 +12,12 @@ public class Segitiga extends BangunDatar {
     double alas;
     double tinggi;
     
-    // Constructor
     public Segitiga(double alas, double tinggi) {
         this.alas = alas;
         this.tinggi = tinggi;
     }
     
     public void hitungSegitiga() {
-        // Asumsi segitiga siku-siku untuk menghitung sisi miring & keliling
         double miring = Math.sqrt((alas * alas) + (tinggi * tinggi));
         this.luas = (int) (0.5 * alas * tinggi);
         this.keliling = (int) (alas + tinggi + miring);

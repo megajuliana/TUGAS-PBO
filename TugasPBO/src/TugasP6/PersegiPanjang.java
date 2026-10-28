@@ -12,7 +12,6 @@ public class PersegiPanjang extends BangunDatar {
     int panjang;
     int lebar;
     
-    // Constructor
     public PersegiPanjang(int panjang, int lebar) {
         this.panjang = panjang;
         this.lebar = lebar;

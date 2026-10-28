@@ -11,7 +11,6 @@ package TugasP6;
 public class Persegi extends BangunDatar {
     int sisi;
     
-    // Constructor
     public Persegi(int sisi) {
         this.sisi = sisi;
     }

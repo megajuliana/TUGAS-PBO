@@ -12,7 +12,6 @@ public class Lingkaran extends BangunDatar {
     double jari;
     final float PI = 3.14f;
     
-    // Constructor
     public Lingkaran(double jari) {
         this.jari = jari;
     }
